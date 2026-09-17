@@ -8,7 +8,7 @@ This Model Library PPS  does not only aim at preserving the source code and docu
 The Model Library PPS facilitates the development of new models and the maintenance and sharing of certain existing models. Links to the repositories to these so-called focus models are
 
 - FARMSIM
-- [LINTUL](https://github.com/model-library-pps/LINTUL-3)
+- [LINTUL](https://github.com/model-library-pps/LINTUL)
 - [LINTUL Cassava NPK](https://github.com/model-library-pps/lintul-cassava-npk)
 - PALMSIM
 - [QUEFTS](https://github.com/model-library-pps/QUEFTS)
